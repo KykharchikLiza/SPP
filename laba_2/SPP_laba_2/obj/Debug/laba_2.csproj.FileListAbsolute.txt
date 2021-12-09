@@ -1,0 +1,7 @@
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.exe.config
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.exe
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.pdb
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\laba_2.csproj.AssemblyReference.cache
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\laba_2.csproj.CoreCompileInputs.cache
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.exe
+D:\Учёба\3 rehc\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.pdb
