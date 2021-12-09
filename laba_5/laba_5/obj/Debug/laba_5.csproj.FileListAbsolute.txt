@@ -1,0 +1,7 @@
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\bin\Debug\laba_5.exe.config
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\bin\Debug\laba_5.exe
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\bin\Debug\laba_5.pdb
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\obj\Debug\laba_5.csproj.AssemblyReference.cache
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\obj\Debug\laba_5.csproj.CoreCompileInputs.cache
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\obj\Debug\laba_5.exe
+D:\Учёба\3 rehc\спп\SPP-master\laba_5\laba_5\obj\Debug\laba_5.pdb
