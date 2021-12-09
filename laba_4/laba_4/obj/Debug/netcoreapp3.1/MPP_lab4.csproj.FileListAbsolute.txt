@@ -1,0 +1,27 @@
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.exe
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.deps.json
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.runtimeconfig.json
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.dll
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.pdb
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.AssemblyInfo.cs
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.dll
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.pdb
+C:\Users\User\RiderProjects\MPP_lab4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.genruntimeconfig.cache
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.exe
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.deps.json
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.runtimeconfig.json
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.runtimeconfig.dev.json
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.dll
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\bin\Debug\netcoreapp3.1\MPP_lab4.pdb
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.csproj.AssemblyReference.cache
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.AssemblyInfoInputs.cache
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.AssemblyInfo.cs
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.csproj.CoreCompileInputs.cache
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.dll
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.pdb
+D:\Учёба\3 rehc\спп\MPP-main\MPP 4\MPP_lab4\obj\Debug\netcoreapp3.1\MPP_lab4.genruntimeconfig.cache
