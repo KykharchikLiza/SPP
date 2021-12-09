@@ -1,0 +1,7 @@
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\bin\Debug\laba_7.exe.config
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\bin\Debug\laba_7.exe
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\bin\Debug\laba_7.pdb
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\obj\Debug\laba_7.csproj.AssemblyReference.cache
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\obj\Debug\laba_7.csproj.CoreCompileInputs.cache
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\obj\Debug\laba_7.exe
+D:\Учёба\3 rehc\спп\SPP-master\SPP-master\laba_7\laba_7\obj\Debug\laba_7.pdb
